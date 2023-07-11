@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anzhi"
+  name             : "Yang Guang"
   avatar           : "anzhi.png"
   bio              : "A student"
-  location         : "Location"
+  location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
