@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a student at the South-Central Minzu University[School of Biomedical Engineering](https://www.scuec.edu.cn/syxy/). 
+I'm a student at the South-Central Minzu University [School of Biomedical Engineering](https://www.scuec.edu.cn/syxy/). 
 My main research interests include computer vision,machine learning and multi-target tracking.
 
 I am very fortunate to be advised by academic advisor Liman Liu.
