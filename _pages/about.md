@@ -1,12 +1,4 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 I'm a student at the South-Central Minzu University[School of Biomedical Engineering](https://www.scuec.edu.cn/syxy/). 
 My main research interests include computer vision,machine learning and multi-target tracking.
